@@ -3,3 +3,5 @@
 
 # Overview
 This is the entry/writeup of LA CTF 2025, which took place over three days (42 hours) from Feb 7, 2025 08:00PM PST to Feb 9, 2025 02:00PM PST.
+
+This writeup was translated from Japanese by [DeepL translation](https://www.deepl.com/ja/translator). Therefore, there may be inappropriate expressions.
